@@ -4,6 +4,6 @@ NPM : 2306245586
 
 Kelas : PBP A
 
-Hobi: Tidur
+Hobi: Tidur, Makan
 
 Jurusan : Ilmu Sistem Informasi Komputer
